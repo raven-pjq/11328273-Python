@@ -1,46 +1,15 @@
-#### 系統需求與資料結構設計
-- [x] 設計系統的基本功能需求
-- [x] 設計單個任務的資料結構
-- [x] 設計儲存多個任務的清單結構
-- [ ] 設計數據儲存結構
+<a name="top"></a>
+<div align="center">
+<img src="./assetsreadme/welcome.png">
 
-#### 程式實作進度
-- [ ] 設計查看所有任務功能
-- [ ] 設計新增任務功能
-- [ ] 設計完成任務功能
-- [ ] 設計刪除任務功能
-- [ ] 設計篩選任務功能（根據優先順序或完成期限）
-- [ ] 設計數據儲存功能（儲存到檔案中）
-- [ ] 設計數據讀取功能（從檔案讀取數據）
+  # [🤖] 彭嘉慶 - 11328273 - 電機一乙 [🤖]
 
-#### 測試進度
-- [x] 測試新增任務
-- [x] 測試查看任務
-- [ ] 測試完成任務
-- [ ] 測試刪除任務
-- [ ] 測試過期任務的篩選功能
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF768&width=435&lines=Hi+Everyone!+I'm+Raven+%E5%BD%AD%E5%98%89%E6%85%B6!;+Welcome+to+my+github!+)](https://git.io/typing-svg)
+
+### 🛠️ Technologies and tools:
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+<img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 
 
-Translation to [EN]
-
-#### System requirements and data structure design
-- [x] Basic functional requirements of the design system
-- [x] Design the data structure of a single task
-- [x] Design a checklist structure to store multiple tasks
-- [ ] Design data storage structure
-
-#### Program implementation progress
-- [ ] Design view all tasks function
-- [ ] Design new task function
-- [ ] Design task completion function
-- [ ] Design delete task function
-- [ ] Design filter task function (based on priority or completion deadline)
-- [ ] Design data storage function (save to file)
-- [ ] Design data reading function (reading data from files)
-
-#### Test progress
-- [x] Test new tasks
-- [x] Test viewing tasks
-- [ ] Test completion task
-- [ ] Test deletion task
-- [ ] Test the filtering function of overdue tasks
